@@ -5,7 +5,27 @@
     --pinklavander: #DBAFC1;
     --greenblue: #2364AA;
     --nonphotoblue: #A0D2DB;
-    --amaranth: #DA344D;
+    --murrey: #89023E;
     --preto: #000000;
     --branco: #ffffff;
+}
+
+body {
+    background-color: #A0D2DB;
+    font-family: cursive;
+}
+
+p {
+    color:#ffffff;
+    background-color: #89023E;
+}
+
+h1 {
+    font-family: cursive;
+}
+
+/* fiquei em dúvida pq quero por a mesma font family no H1 e no restante... */
+
+li {
+    font-size: large;
 }
