@@ -2,10 +2,10 @@
 
 :root {
     --thistle: #E7C8DD;
-    --pinklavander: #DBAFC1;
     --greenblue: #2364AA;
     --nonphotoblue: #A0D2DB;
     --murrey: #89023E;
+    --amaranth: #DA344D;
     --preto: #000000;
     --branco: #ffffff;
 }
@@ -27,5 +27,5 @@ h1 {
 /* fiquei em dúvida pq quero por a mesma font family no H1 e no restante... */
 
 li {
-    font-size: large;
+    font-size: 1.5em;
 }
